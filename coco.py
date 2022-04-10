@@ -52,7 +52,7 @@ train_dir = "data/coco/train2017"
 val_dir = "data/coco/val2017"
 
 # Base-URL for the data-sets on the internet.
-data_url = "http://images.cocodataset.org/"
+data_url = "/content/drive/MyDrive/coco/"
 
 
 ########################################################################
